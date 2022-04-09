@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LSDWarrior
-- 👀 I’m interested in ... architecture, aerodynamics (space travel), and military history.  
+- 👀 I’m interested in ... architecture, aerospace engineering (space travel), chess and military history.  
 - 🌱 I’m currently learning ... Python for Business Analytics
 - 💞️ I’m looking to collaborate on ... NFT projects. 
 - 📫 How to reach me ... email: durk0206@gmail.com

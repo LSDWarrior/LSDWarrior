@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LSDWarrior
 - 👀 I’m interested in ... architecture, aerospace engineering, chess and military history.  
 - 🌱 I’m currently learning ... Python for Business Analytics, Excel and Power Bi. 
-- 💞️ I’m looking to collaborate on ... NFT projects, Crowd Sourcing & Mapping Mobile Apps, and ECommerce / Delivery Apps. 
+- 💞️ I’m looking to collaborate on ... NFT projects, Crowd Sourcing Apps, Aerial Map Apps, and ECommerce / Delivery Apps. 
 - 📫 How to reach me ... email: durk0206@gmail.com
 
 <!---
